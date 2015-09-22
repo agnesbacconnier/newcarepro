@@ -3055,7 +3055,7 @@ select[multiple].form-group-lg .form-control {
   min-height: 3.9rem;
 }
 .form-horizontal .form-group {
-  margin-left: -1rem;
+  //margin-left: -1rem;
   margin-right: -1rem;
 }
 @media (min-width: 768px) {
